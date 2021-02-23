@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StudentService {
-    static final String jdbcUrl = "jdbc:mysql://192.168.232.232:3306/learnjdbc?useSSL=false&characterEncoding=utf8";
+    static final String jdbcUrl = "jdbc:mysql://localhost:port/learnjdbc?useSSL=false&characterEncoding=utf8";
     static final String jdbcUsername = "root";
     static final String jdbcPassword = "123456";
 
